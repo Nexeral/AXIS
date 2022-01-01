@@ -1,0 +1,202 @@
+body{
+margin: 0;
+padding: 0;
+background: url("https://cdn.discordapp.com/attachments/919860069535989806/926835689637675088/COD_BG.jpg");
+
+overflow-y: scroll;
+overflow-x: hidden;
+
+}
+.img{
+position: relative;
+left: 635px;
+}
+.link{
+background: none;
+border: none;
+font-size: 20px;
+font-family: "Poppins";
+color: white;
+padding: 4px 30px;
+position: relative;
+top: 20px;
+left: 900px;
+border-radius: 30px;
+}
+.link:hover{
+background: linear-gradient(45deg, #4568dc, #b06ab3);
+padding: 4px 30px;
+border-radius: 30px;
+transition: 0.3s ease-in-out;
+}
+.link2{
+background: none;
+border: none;
+font-size: 20px;
+font-family: "Poppins";
+color: white;
+border-radius: 30px;
+text-decoration: none;
+position: relative;
+top: 20px;
+padding: 4px 30px;
+left: 160px;
+}
+.link2:hover{
+background: linear-gradient(45deg, #4568dc, #b06ab3);
+transition: 0.3s ease-in-out;
+padding: 4px 30px;
+border-radius: 30px;
+}
+.link3{
+background: none;
+border: none;
+font-size: 20px;
+font-family: "Poppins";
+color: white;
+padding: 4px 30px;
+text-decoration: none;
+position: relative;
+top: 20px;
+left: 280px;
+border-radius: 30px;
+}
+.link3:hover{
+background: linear-gradient(45deg, #4568dc, #b06ab3);
+padding: 4px 30px;
+border-radius: 30px;
+}
+.news{
+color: aliceblue;
+font-family: "Sector 034";
+position: relative;
+top: 100px;
+left: 645px;
+}
+.era{
+position: relative;
+top: 100px;
+left: 450px;
+}
+.last-header{
+font-family: "Arame";
+color: white;
+position: relative;
+top: 300px;
+left: 575px;
+}
+.mail{
+background: #738ADB;
+border: none;
+font-family: "Poppins";
+font-size: 18px;
+padding: 25px 100px;
+border-radius: 40px;
+position: relative;
+top: 400px;
+left: 20px;
+}
+.mail:hover{
+background: rgb(80, 96, 155);
+transition: 0.3s ease-in-out;
+}
+.discord{
+background: #738ADB;
+font-family: "Poppins";
+border: none;
+border-radius: 40px;
+padding: 25px 100px;
+position: relative;
+top: 400px;
+font-size: 20px;
+left: 560px;
+}
+.discord:hover{
+background: rgb(80, 96, 155);
+transition: 0.3s ease-in-out;
+}
+::-webkit-scrollbar{
+width: 1em;
+}
+::-webkit-scrollbar-track{
+background: white;
+border-radius: 30px;
+}
+::-webkit-scrollbar-thumb{
+background: linear-gradient(#4568dc, #b06ab3);
+border-radius: 100vw;
+}
+.center{
+color: white;
+font-family: "Sector 034";
+position: relative;
+font-size: 20px;
+text-align: center;
+border-bottom: 1px solid rgb(105, 105, 105);
+
+}
+.event{
+color: white;
+font-family: "Moon";
+position: relative;
+left: 580px;
+top: 200px;
+}
+.gnews{
+font-family: "Sector 034";
+color: white;
+position: relative;
+top: 120px;
+text-align: center;
+}
+.Codm{
+background: none;
+border-radius: 30px;
+padding: 16px 40px;
+color: white;
+font-family: "Poppins";
+font-size: 16px;
+border: 1px solid #4568dc;
+position: relative;
+top: 80px;
+right: 400px;
+}
+.Codm:hover{
+background: linear-gradient(#4568dc, #b06ab3);
+color: black;
+transition: 0.3s ease-in-out;
+}
+.Valorant{
+background: none;
+border-radius: 30px;
+padding: 16px 40px;
+color: white;
+font-family: "Poppins";
+font-size: 16px;
+border: 1px solid #4568dc;
+position: relative;
+top: 80px;
+right: 300px;
+}
+.Valorant:hover{
+background: linear-gradient(#4568dc, #b06ab3);
+color: black;
+transition: 0.3s ease-in-out;
+}
+.Fortnite{
+background: none;
+border-radius: 30px;
+padding: 16px 40px;
+color: white;
+font-family: "Poppins";
+font-size: 16px;
+border: 1px solid #4568dc;
+position: relative;
+top: 80px;
+right: 200px;
+}
+.Fortnite:hover{
+background: linear-gradient(#4568dc, #b06ab3);
+color: black;
+transition: 0.3s ease-in-out;
+}
